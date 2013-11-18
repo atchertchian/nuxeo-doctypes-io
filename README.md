@@ -1,0 +1,2 @@
+nuxeo-doctypes-io
+=================
