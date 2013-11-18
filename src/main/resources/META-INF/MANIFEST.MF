@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 1
+Bundle-Name: Nuxeo DocTypes exporter
+Bundle-SymbolicName: org.nuxeo.doctypes.io;singleton:=true
+Bundle-Version: 1.0.0
+Nuxeo-WebModule: org.nuxeo.core.types.io.JAXRSApp;name=Types
+
+
